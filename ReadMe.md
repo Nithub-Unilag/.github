@@ -26,3 +26,21 @@ Feel free to leave us a message.
 <p align="left">
  <a href="https://twitter.com/nithub_lag"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/company/nithub/" alt="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/nithub_lag/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  
+</p>   
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Nithub-trainings/Nithub-trainings.svg?style=for-the-badge
+[contributors-url]: [https://github.com/Nithub-trainings/Nithub-trainings/graphs/contributors]
+
+[forks-shield]: https://img.shields.io/github/forks/Nithub-trainings/Nithub-trainings.svg?style=for-the-badge
+[forks-url]: https://github.com/Nithub-trainings/Nithub-trainings/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/Nithub-trainings/Nithub-trainings.svg?style=for-the-badge
+[stars-url]: [https://github.com/Nithub-trainings/Nithub-trainings/stargazers]
+
+[website-shield]: https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fnithub.unilag.edu.ng%2Fcategory%2Ftraining%2F
+[website-url]: https://nithub.unilag.edu.ng/category/training/
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/company/nithub/
